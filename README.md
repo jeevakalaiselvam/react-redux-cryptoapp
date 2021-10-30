@@ -4,9 +4,9 @@ Simple application for checking latest Crypto News and Currency details
 
 # Screenshots
 
-![Screenshot](screens/screen6.jpg)
-![Screenshot](screens/screen5.jpg)
-![Screenshot](screens/screen4.jpg)
-![Screenshot](screens/screen3.jpg)
-![Screenshot](screens/screen2.jpg)
-![Screenshot](screens/screen1.jpg)
+![Screenshot](screens/screen_6.jpg)
+![Screenshot](screens/screen_5.jpg)
+![Screenshot](screens/screen_4.jpg)
+![Screenshot](screens/screen_3.jpg)
+![Screenshot](screens/screen_2.jpg)
+![Screenshot](screens/screen_1.jpg)
